@@ -3,8 +3,9 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Porsche Shop",
-  description: "Best place to shop Porsche in the world.",
+  title: "Car Showcase",
+  description:
+    "Best place to find, book, or rent your favorite car in the world.",
 };
 
 export default function RootLayout({
